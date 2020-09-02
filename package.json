@@ -33,7 +33,7 @@
     "express": "^4.16.4",
     "express-session": "^1.17.1",
     "google-auth-library": "0.10.0",
-    "googleapis": "12.4.0",
+    "googleapis": "39.1.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.9.10",
     "mysql": "^2.18.1",
